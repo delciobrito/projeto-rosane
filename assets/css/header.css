@@ -1,0 +1,7 @@
+.header {
+    background-color: var(--cor-secundaria);
+    display: flex;
+    justify-content: space-around;
+    padding: 1.8rem;
+    width: 100%;
+}
