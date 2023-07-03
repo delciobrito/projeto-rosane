@@ -12,3 +12,9 @@
     --cor-a: #549BF0;
     --cor-b: #57CCFA;
 }
+
+body {
+    width: 90%;
+    margin: auto;
+    background: linear-gradient(to bottom #EAE9E4, #C4E3DB, #EEEDF3);
+}
