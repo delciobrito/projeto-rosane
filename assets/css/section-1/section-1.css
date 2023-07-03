@@ -1,25 +1,5 @@
 .section-1 {
-    margin-top: 4rem;
+    margin-top: 5rem;
     padding: 2rem
 }
 
-.section-1__titulo {
-    font-size: 3rem;
-    color: var(--cor-a);
-    text-transform: uppercase;
-}
-
-.section-1__paragraph {
-    margin-top: 3rem;
-    font-size: 2rem;
-    text-align: justify;
-    line-height: 3rem;
-    font-family: 'Roboto', sans-serif;;
-}
-
-.section-1__image {
-    display: block;
-    margin: auto;
-    border-radius: 1rem;
-    margin-top: 2rem;
-}

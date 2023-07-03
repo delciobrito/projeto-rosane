@@ -1,0 +1,13 @@
+.section-1__paragraph {
+    margin-top: 3rem;
+    font-size: 2rem;
+    text-align: justify;
+    line-height: 3rem;
+    font-family: 'Roboto', sans-serif;
+    color: var(--cor-text);
+}
+
+.section-1__paragraph > span {
+    font-family: 'Courgette', cursive;
+    font-size: 2.5rem;
+}
