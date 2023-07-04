@@ -2,4 +2,6 @@
     font-size: 3rem;
     color: var(--cor-title);
     text-transform: uppercase;
+    margin-top: 5rem;
+    text-align: center;
 }

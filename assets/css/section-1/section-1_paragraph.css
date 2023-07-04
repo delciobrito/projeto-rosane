@@ -3,8 +3,8 @@
     font-size: 2rem;
     text-align: justify;
     line-height: 3rem;
-    font-family: 'Roboto', sans-serif;
     color: var(--cor-text);
+    text-align: center;
 }
 
 .section-1__paragraph > span {

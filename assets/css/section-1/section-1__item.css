@@ -1,0 +1,13 @@
+.section-1__item {
+    list-style: none;
+    font-size: 2rem;
+    border: .5rem solid var(--cor-secundaria);
+    border-radius: 1rem;
+    background-color: #EEEDF3;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.section-1__item:hover {
+    
+}

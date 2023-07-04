@@ -16,5 +16,6 @@
 body {
     background: linear-gradient(to bottom #EAE9E4, #C4E3DB, #EEEDF3);
     margin: auto;
-    width: 90%;
+    width: 82%;
+    font-family: 'Roboto', sans-serif;
 }
