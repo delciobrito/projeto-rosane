@@ -14,19 +14,24 @@
     --cor-check: #81c747;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: linear-gradient(to bottom #EAE9E4, #BAE0E1, #C4E3DB, #8DC6CF);
     font-family: 'Roboto', sans-serif;
     margin: auto;
-    width: 90%;
     max-width: 1100px;
+    padding-top: 2rem;
+    width: 90%;
 }
 
 .horizonRow {
-    margin-top: 6rem;
-    height: .3rem;
+    background-color: var(--cor-check);
     border: none;
     border-radius: 1rem;
-    background-color: var(--cor-check);
+    height: .3rem;
     box-shadow: 2px 2px 3px rgb(78, 54, 54);
+    margin-top: 6rem;
 }
