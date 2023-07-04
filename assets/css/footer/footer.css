@@ -1,0 +1,11 @@
+.footer {    
+    display: flex;
+
+    flex-direction: column;
+    gap: 1rem;
+    background-color: rgba(133, 96, 43, 0.644);
+    border-radius: 1rem;
+    height: 15rem;
+    padding: 2rem 2rem 0;
+    margin: 10rem 0 3rem;
+}
