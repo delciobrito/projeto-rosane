@@ -1,7 +1,5 @@
 .section-1__image {
-    /* display: block;
-    margin: auto; */
-    /* float: left; */
     border-radius: 1rem;
-    /* margin-top: 3rem; */
+    float: left;
+    padding-right: 2rem;
 }

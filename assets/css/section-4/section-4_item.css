@@ -1,4 +1,4 @@
-.section-2__item {
+.section-4__item {
     list-style: none;
     font-size: 2rem;
     border: .5rem solid var(--cor-secundaria);
@@ -10,7 +10,7 @@
     vertical-align: middle;
 }
 
-.section-2__item--done {
+.section-4__item--done {
     background-color: var(--cor-check);
     border-radius: 50%;
     height: 35px;
