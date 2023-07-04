@@ -4,9 +4,9 @@
     border: .5rem solid var(--cor-secundaria);
     border-radius: 1rem;
     background-color: #EEEDF3;
+    height: 70px;
     margin-top: 1rem;
     padding-top: 1.2rem;
-    height: 70px;
     vertical-align: middle;
 }
 

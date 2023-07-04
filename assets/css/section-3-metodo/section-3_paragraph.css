@@ -1,8 +1,7 @@
-.section-1__paragraph {
+.section-3__paragraph {
     color: var(--cor-text);
     font-size: 2rem;
     line-height: 3rem;
-    text-align: left;
     margin-top: 2rem;
+    text-align: left;
 }
-

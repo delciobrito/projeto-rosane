@@ -1,12 +1,12 @@
 .section-2__item {
-    list-style: none;
-    font-size: 2rem;
+    background-color: #EEEDF3;
     border: .5rem solid var(--cor-secundaria);
     border-radius: 1rem;
-    background-color: #EEEDF3;
-    margin-top: 1rem;
-    padding-top: 1.2rem;
+    font-size: 2rem;
     height: 70px;
+    list-style: none;
+    padding-top: 1.2rem;
+    margin-top: 1rem;
     vertical-align: middle;
 }
 
