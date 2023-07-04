@@ -6,3 +6,9 @@
     text-align: left;
 }
 
+@media screen and (max-width: 425px) {
+    .section-1__paragraph {
+       text-align: left;
+    }
+}
+

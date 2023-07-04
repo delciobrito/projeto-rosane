@@ -3,11 +3,9 @@
     border: .5rem solid var(--cor-secundaria);
     border-radius: 1rem;
     font-size: 2rem;
-    height: 70px;
     list-style: none;
-    padding-top: 1.2rem;
+    padding: 1.5rem;
     margin-top: 1rem;
-    vertical-align: middle;
 }
 
 .section-2__item--done {
@@ -16,3 +14,16 @@
     height: 35px;
     vertical-align: middle;
 }
+
+@media screen and (max-width: 768px) {
+    .section-2__item--done {
+        height: 20px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .section-2__item--done {
+        height: 20px;
+    }
+}
+

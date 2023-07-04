@@ -4,10 +4,8 @@
     border: .5rem solid var(--cor-secundaria);
     border-radius: 1rem;
     background-color: #EEEDF3;
-    height: 70px;
     margin-top: 1rem;
-    padding-top: 1.2rem;
-    vertical-align: middle;
+    padding: 1rem;
 }
 
 .section-4__item--done {
@@ -15,4 +13,10 @@
     border-radius: 50%;
     height: 35px;
     vertical-align: middle;
+}
+
+@media screen and (max-width: 768px) {
+    .section-4__item--done {
+        height: 20px;
+    }
 }

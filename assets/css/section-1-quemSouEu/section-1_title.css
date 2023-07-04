@@ -12,3 +12,10 @@
     text-transform: uppercase;
     text-align: left;
 }
+
+@media screen and (max-width: 425px) {
+    .section-1__title-primeiro {
+        text-align: left;
+        margin-top: 2rem;
+    }
+}

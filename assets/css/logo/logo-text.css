@@ -3,3 +3,9 @@
     font-family: 'Courgette', cursive;
     font-size: 3rem;
 }
+
+@media screen and (max-width: 425px) {
+    .logo__text {
+        margin-bottom: 2rem;
+    }
+}

@@ -3,3 +3,11 @@
     float: left;
     padding-right: 2rem;
 }
+
+@media screen and (max-width: 425px) {
+    .section-1__image {
+        float: none;
+        padding-right: 0;
+        width: 100%;
+    }
+}
