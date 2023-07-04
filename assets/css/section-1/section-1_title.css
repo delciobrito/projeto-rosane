@@ -1,7 +1,14 @@
-.section-1__title {
-    font-size: 3rem;
+.section-1__title-primeiro {
     color: var(--cor-title);
+    font-size: 3rem;
     text-transform: uppercase;
-    margin-top: 5rem;
-    text-align: center;
+    text-align: left;
+}
+
+.section-1__title-segundo {
+    color: var(--cor-title);
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: 4rem;
 }

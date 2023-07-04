@@ -9,13 +9,23 @@
     --cor-primaria: #5CE1E4;
     --cor-secundaria: #57FACF;
     --cor-terciaria:#54F09A;
-    --cor-text: #09204D;
-    --cor-title: #57CCFA;
+    --cor-text: #041230;
+    --cor-title: #409fee;
 }
 
 body {
-    background: linear-gradient(to bottom #EAE9E4, #C4E3DB, #EEEDF3);
+    background: linear-gradient(to bottom #EAE9E4, #BAE0E1, #C4E3DB, #8DC6CF);
+    font-family: 'Roboto', sans-serif;
     margin: auto;
     width: 82%;
-    font-family: 'Roboto', sans-serif;
+    max-width: 850px;
+}
+
+.horizonRow {
+    margin-top: 6rem;
+    height: .3rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: var(--cor-secundaria);
+    box-shadow: 2px 2px 3px rgb(78, 54, 54);
 }
