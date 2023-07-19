@@ -1,11 +1,11 @@
-.section-3__container {
+.metodo__container {
     display: flex;
     
     gap: 2rem;
 }
 
 @media screen and (max-width: 768px) {
-    .section-3__container {
+    .metodo__container {
         flex-direction: column;
     }
 }

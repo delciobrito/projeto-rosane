@@ -1,4 +1,4 @@
-.section-2__item {
+.oQueEntrego__item {
     background-color: #EEEDF3;
     border: .5rem solid var(--cor-secundaria);
     border-radius: 1rem;
@@ -8,7 +8,7 @@
     margin-top: 1rem;
 }
 
-.section-2__item--done {
+.oQueEntrego__item--done {
     background-color: var(--cor-check);
     border-radius: 50%;
     height: 35px;
@@ -16,13 +16,13 @@
 }
 
 @media screen and (max-width: 768px) {
-    .section-2__item--done {
+    .oQueEntrego__item--done {
         height: 20px;
     }
 }
 
 @media screen and (max-width: 375px) {
-    .section-2__item--done {
+    .oQueEntrego__item--done {
         height: 20px;
     }
 }

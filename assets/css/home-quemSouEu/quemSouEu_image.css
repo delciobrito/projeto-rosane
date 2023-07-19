@@ -1,11 +1,11 @@
-.section-1__image {
+.quemSouEu__image {
     border-radius: 1rem;
     float: left;
     padding-right: 2rem;
 }
 
 @media screen and (max-width: 425px) {
-    .section-1__image {
+    .quemSouEu__image {
         float: none;
         padding-right: 0;
         width: 100%;

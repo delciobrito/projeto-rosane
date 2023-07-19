@@ -1,11 +1,11 @@
-.section-1__title-primeiro {
+.quemSouEu__title-primeiro {
     color: #8DC6CF;
     font-size: 3rem;
     text-transform: uppercase;
     text-align: left;
 }
 
-.section-1__title-segundo {
+.quemSouEu__title-segundo {
     color: #8DC6CF;
     font-size: 3rem;
     margin-top: 4rem;
@@ -14,7 +14,7 @@
 }
 
 @media screen and (max-width: 425px) {
-    .section-1__title-primeiro {
+    .quemSouEu__title-primeiro {
         text-align: left;
         margin-top: 2rem;
     }
