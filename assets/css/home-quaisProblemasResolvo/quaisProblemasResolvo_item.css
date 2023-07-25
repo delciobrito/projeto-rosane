@@ -16,6 +16,9 @@
 }
 
 @media screen and (max-width: 768px) {
+    .quaisProblemasResolvo__item {
+        font-size: 1.8rem;
+    }
     .quaisProblemasResolvo__item--done {
         height: 20px;
     }

@@ -1,0 +1,13 @@
+.ancor {
+    font-size: 2rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.ancor a{
+    background-color: var(--cor-primaria);
+    border-radius: 1rem;
+    font-weight: bold;
+    padding: 1rem;
+    text-transform: uppercase;
+}

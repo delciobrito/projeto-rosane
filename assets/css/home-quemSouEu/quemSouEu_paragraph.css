@@ -1,9 +1,17 @@
 .quemSouEu__paragraph {
+    background-color:  #5ce2e433;
     color: var(--cor-text);
     font-size: 2rem;
     line-height: 3rem;
     margin-top: 2rem;
+    padding: 1rem;
     text-align: left;
+}
+
+.quemSouEu__paragraph a {
+    background-color: var(--cor-primaria);
+    border-radius: 1rem;
+    padding: .5rem;
 }
 
 @media screen and (max-width: 425px) {

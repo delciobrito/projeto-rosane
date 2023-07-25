@@ -5,3 +5,18 @@
     margin-top: 2rem;
     text-align: center;
 }
+
+.missao__ancor {
+    font-size: 2rem;
+    margin-top: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.missao__ancor a {
+    background-color: var(--cor-primaria);
+    border-radius: 1rem;
+    padding: 1rem;
+    
+}

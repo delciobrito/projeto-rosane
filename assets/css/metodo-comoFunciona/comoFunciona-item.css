@@ -1,0 +1,14 @@
+.comoFunciona__item {
+    background-color: #EEEDF3;
+    border: .5rem solid var(--cor-secundaria);
+    border-radius: 1rem;
+    font-size: 2rem;
+    list-style: none;
+    padding: 1.5rem;
+    margin-top: 1rem;
+}
+
+.comoFunciona__item--clock {
+    height: 35px;
+    vertical-align: middle;
+}

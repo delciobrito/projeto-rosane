@@ -1,6 +1,7 @@
 .quemSouEu__title-primeiro {
     color: #8DC6CF;
     font-size: 3rem;
+    padding: 1rem;
     text-transform: uppercase;
     text-align: left;
 }
@@ -15,7 +16,10 @@
 
 @media screen and (max-width: 425px) {
     .quemSouEu__title-primeiro {
-        text-align: left;
+        background-color: black;
+        border-radius: 1rem;
         margin-top: 2rem;
+        padding: 1rem;
+        text-align: left;
     }
 }
