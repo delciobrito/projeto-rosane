@@ -3,18 +3,28 @@
 }
 
 .menu__item a {
-    font-size: 1.8rem;
-    font-weight: bold;
-    text-decoration: none;
-    text-transform: uppercase;
+    display: inline-block;
+
     background-color: var(--cor-terciaria);
+    border-bottom: 2px solid var(--cor-text);
     border-radius: 1rem;
     color: var(--cor-text);
+    font-size: 1.8rem;
+    font-weight: bold;
     padding: .5rem;
-    border-bottom: 2px solid var(--cor-text);
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 10rem;
 }
 
 .menu__item:active {
     transform: scale(0.9);
 }
 
+@media screen and (max-width: 480px) {
+    .menu__item a {
+        font-size: 1.5rem;
+        width: 8rem;
+    }
+}
