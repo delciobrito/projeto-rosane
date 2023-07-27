@@ -2,6 +2,7 @@
     border-radius: 1rem;
     float: left;
     padding-right: 2rem;
+    margin-top: 2rem;
 }
 
 @media screen and (max-width: 425px) {

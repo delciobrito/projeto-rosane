@@ -1,11 +1,15 @@
 .porqueEu__image {
+    border-radius: 1rem;
     float: left;
-    padding: 2rem 2rem 2rem 0;
+    /* padding: 2rem 2rem 2rem 0; */
+    padding-right: 2rem;
+    margin-top: 2rem;
     width: 40%;
 }
 
 @media screen and (max-width: 425px) {
     .porqueEu__image {
+        border-radius: 1rem;
         float: none;
         padding-right: 0;
         width: 100%;
