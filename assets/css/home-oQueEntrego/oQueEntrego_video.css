@@ -1,0 +1,17 @@
+.oQueEntrego__video {
+    margin: 2rem auto 0;
+    width: 56rem;
+    height: 31.5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .oQueEntrego__video {
+        width: 37rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .oQueEntrego__video {
+        width: 30rem;
+    }
+}

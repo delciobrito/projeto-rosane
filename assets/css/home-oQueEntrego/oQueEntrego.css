@@ -1,3 +1,6 @@
 .oQueEntrego {
-    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    gap: 2rem;
 }
