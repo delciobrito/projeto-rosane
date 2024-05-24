@@ -1,0 +1,17 @@
+.btn-nubank {
+    background-image: url('../../../imagens/nubank.jpg');
+    background-position: center;
+    background-size: cover;
+    border: .1rem solid black;
+    box-shadow: .2rem .2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    height: 5rem;
+    width: 10rem;
+    margin: 0 auto;
+}
+
+.btn-nubank:active {
+    box-shadow: 0 0;
+    transform: scale(0.98);
+}

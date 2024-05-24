@@ -4,3 +4,7 @@
     margin-top: 2rem;
     gap: 2rem;
 }
+
+.oQueEntrego > .ancor a {
+    margin-top: 0;
+}
